@@ -1,0 +1,14 @@
+Credit Card Numbers:
+4111 1111 1111 1111
+5500 0000 0000 0004
+3400 0000 0000 009
+
+Social Security Numbers:
+123-45-6789
+987-65-4321
+111-22-3333
+
+Emails:
+example1@example.com
+example2@example.com
+example3@example.com
